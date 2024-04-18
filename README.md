@@ -678,6 +678,8 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* Bump gunicorn from 21.2.0 to 22.0.0 in /docker-images. PR [#1](https://github.com/khulnasoft/uvicorn-gunicorn-docker/pull/1) by [@dependabot[bot]](https://github.com/apps/dependabot).
+
 #### Features
 
 * 👷 Avoid creating unnecessary `*.pyc` files with `PYTHONDONTWRITEBYTECODE=1` and ensure logs are printed immediately with `PYTHONUNBUFFERED=1`. PR [#192](https://github.com/khulnasoft/uvicorn-gunicorn-docker/pull/192) by [@estebanx64](https://github.com/estebanx64).
