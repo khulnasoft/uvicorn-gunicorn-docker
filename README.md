@@ -678,6 +678,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* Update dependency black to v24 [SECURITY]. PR [#6](https://github.com/khulnasoft-lab/uvicorn-gunicorn-docker/pull/6) by [@renovate[bot]](https://github.com/apps/renovate).
 * Bump peter-evans/dockerhub-description from 3 to 4. PR [#3](https://github.com/khulnasoft-lab/uvicorn-gunicorn-docker/pull/3) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump docker/setup-buildx-action from 1 to 3. PR [#2](https://github.com/khulnasoft-lab/uvicorn-gunicorn-docker/pull/2) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Create dep-auto-merge.yml. PR [#2](https://github.com/khulnasoft/uvicorn-gunicorn-docker/pull/2) by [@NxPKG](https://github.com/NxPKG).
