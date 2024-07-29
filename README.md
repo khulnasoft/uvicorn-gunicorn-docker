@@ -678,6 +678,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* Bump docker/setup-buildx-action from 1 to 3. PR [#2](https://github.com/khulnasoft-lab/uvicorn-gunicorn-docker/pull/2) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Create dep-auto-merge.yml. PR [#2](https://github.com/khulnasoft/uvicorn-gunicorn-docker/pull/2) by [@NxPKG](https://github.com/NxPKG).
 * Bump gunicorn from 21.2.0 to 22.0.0 in /docker-images. PR [#1](https://github.com/khulnasoft/uvicorn-gunicorn-docker/pull/1) by [@dependabot[bot]](https://github.com/apps/dependabot).
 
