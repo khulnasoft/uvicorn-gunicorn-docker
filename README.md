@@ -678,6 +678,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* Update docker/login-action action to v3. PR [#17](https://github.com/khulnasoft-lab/uvicorn-gunicorn-docker/pull/17) by [@renovate[bot]](https://github.com/apps/renovate).
 * Update dependency black to v24 [SECURITY]. PR [#6](https://github.com/khulnasoft-lab/uvicorn-gunicorn-docker/pull/6) by [@renovate[bot]](https://github.com/apps/renovate).
 * Bump peter-evans/dockerhub-description from 3 to 4. PR [#3](https://github.com/khulnasoft-lab/uvicorn-gunicorn-docker/pull/3) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Bump docker/setup-buildx-action from 1 to 3. PR [#2](https://github.com/khulnasoft-lab/uvicorn-gunicorn-docker/pull/2) by [@dependabot[bot]](https://github.com/apps/dependabot).
