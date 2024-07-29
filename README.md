@@ -678,6 +678,7 @@ All the image tags, configurations, environment variables and application option
 
 ### Latest Changes
 
+* Bump docker/build-push-action from 2 to 6. PR [#19](https://github.com/khulnasoft-lab/uvicorn-gunicorn-docker/pull/19) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Update docker/build-push-action action to v6. PR [#20](https://github.com/khulnasoft-lab/uvicorn-gunicorn-docker/pull/20) by [@renovate[bot]](https://github.com/apps/renovate).
 * Bump docker/login-action from 1 to 3. PR [#7](https://github.com/khulnasoft-lab/uvicorn-gunicorn-docker/pull/7) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Update actions/setup-python action to v5. PR [#13](https://github.com/khulnasoft-lab/uvicorn-gunicorn-docker/pull/13) by [@renovate[bot]](https://github.com/apps/renovate).
