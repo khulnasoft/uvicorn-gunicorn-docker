@@ -32,7 +32,7 @@ The last date tags for these versions are:
 
 ---
 
-**Note**: There are [tags for each build date](https://hub.docker.com/u/khulnasoft/uvicorn-gunicorn/tags). If you need to "pin" the Docker image version you use, you can select one of those tags. E.g. `khulnasoft/uvicorn-gunicorn:python3.7-2019-10-15`.
+**Note**: There are [tags for each build date](https://hub.docker.com/r/khulnasoft/uvicorn-gunicorn/tags). If you need to "pin" the Docker image version you use, you can select one of those tags. E.g. `khulnasoft/uvicorn-gunicorn:python3.7-2019-10-15`.
 
 # uvicorn-gunicorn
 
@@ -40,7 +40,7 @@ The last date tags for these versions are:
 
 **GitHub repo**: [https://github.com/khulnasoft/uvicorn-gunicorn-docker](https://github.com/khulnasoft/uvicorn-gunicorn-docker)
 
-**Docker Hub image**: [https://hub.docker.com/u/khulnasoft/uvicorn-gunicorn/](https://hub.docker.com/u/khulnasoft/uvicorn-gunicorn/)
+**Docker Hub image**: [https://hub.docker.com/r/khulnasoft/uvicorn-gunicorn/](https://hub.docker.com/r/khulnasoft/uvicorn-gunicorn/)
 
 ## Description
 
