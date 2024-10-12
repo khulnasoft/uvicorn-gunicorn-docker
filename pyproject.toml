@@ -2,16 +2,16 @@
 name = "uvicorn-gunicorn-docker"
 version = "0.1.0"
 description = "Docker image with Uvicorn managed by Gunicorn for high-performance web applications in Python with performance auto-tuning."
-authors = ["Sebastián Ramírez <info@khulnasoft.com>"]
+authors = ["KhulnaSoft DevOps <info@khulnasoft.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.8"  # Changed to at least 3.8 to support black
 docker = "^6.0.1"
 pytest = "^8.0.0"
 
 [tool.poetry.dev-dependencies]
-black = "^24.0.0"
+black = "^24.0.0"  # Ensure this version is compatible with your Python version
 isort = "^5.8.0"
 autoflake = "^2.0.0"
 mypy = "^1.1"
